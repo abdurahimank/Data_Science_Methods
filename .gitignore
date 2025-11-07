@@ -1,0 +1,24 @@
+# Ignore data folders
+data/
+data/*
+
+# Ignore all notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment folders
+.env/
+.venv/
+venv/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
